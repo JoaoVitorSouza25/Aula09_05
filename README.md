@@ -1,6 +1,7 @@
 # app_lista
 
-A new Flutter project.
+Exercicio da aula 09/05.
+Introdução ao Firebase
 
 ## Getting Started
 
