@@ -21,7 +21,7 @@ Future<void> main() async {
       builder: (context) => MaterialApp(
         debugShowCheckedModeBanner: false,
         useInheritedMediaQuery: true,
-        initialRoute: 'cadastrar',
+        initialRoute: 'login',
         routes: {
           'cadastrar' : (context) => CadastrarView(),
           'login' : (context) => LoginView(),
